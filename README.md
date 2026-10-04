@@ -105,7 +105,7 @@ noise (pseudo-drops, currency shifts, out-of-stock relabels).
 
 ## Results
 
-- 10B+ API requests processed monthly at <3s average response time
+- 30M+ API requests processed monthly at <3s average response time
 - 99.9% uptime SLA, sustained in production
 - 10,000+ companies using the platform across e-commerce, SEO, lead
   generation, and AI/ML training-data use cases
